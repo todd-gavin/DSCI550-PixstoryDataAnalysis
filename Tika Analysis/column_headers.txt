@@ -1,0 +1,11 @@
+Story Primary ID
+Story ID
+User Primary ID
+User ID
+Gender
+Age
+Title
+Narrative
+Media
+Account Created Date
+Interest
