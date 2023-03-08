@@ -1,0 +1,28 @@
+Story Primary ID
+Story ID
+UserPrimary ID
+User ID
+Gender
+Age
+Title
+Narrative
+Media
+Account Created Dte
+Interest
+Sports Event
+Associated Film Festivals
+Hate Speech Flag
+Hate Speech Detected
+Year_Quarter
+Snapchat_Quarterly_Revenue
+Snapchat_Quarterly_DAUs
+Snapchat_Closing_Stock_Price
+New Covid Cases
+New Deaths
+New Vaccinations
+Youtube Trending Video Title
+Youtube Trending Video Channel
+Youtube Trending Video Category
+Youtube Trending Video Views
+Youtube Trending Video Likes
+is_sarcastic
