@@ -7,5 +7,23 @@ Age
 Title
 Narrative
 Media
-Account Created Date
+Dte
+Dte (No Timestamp)
 Interest
+Sports Events
+Associated Film Festivals
+Hate Speech Flag
+Hate Speech Detected
+Year_Quarter
+Snapchat_Quarterly_Revenue
+Snapchat_Quarterly_DAUs
+Snapchat_Closing_Stock_Price
+New COVID Cases
+New Deaths
+New Vaccinations
+YouTube Trending Video Title
+YouTube Trending Video Channel
+YouTube Trending Video Category
+YouTube Trending Video Views
+YouTube Trending Video Likes
+is_sarcastic
