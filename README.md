@@ -8,7 +8,11 @@ Collaborators: Jai Agrawal, Daniil Abbruzzese, Todd Gavin, Tania Dawood
 
 We have compiled a large dataset containing data provided from Pixstory, as well as additional data sources of various MIME types to perform an analysis on how the COVID pandemic has affected people's usage of social media. 
 
-3. Additional Datasets Added:
+3. Implementation
+
+The additional datasets all have detailed notebooks on their use, running each notebook file should give the outputs required. The dataset directories follow Dataset[num]_[title] formats. Further, the additional columns that needed to be added are also in detailed notebooks within directories. These directories follow [letter]_[col name] formats. The ‘1_Apache_Tika_Analysis’ directory contains detailed instructions how to run the Tika similarity like we did. The “Report_Questions” directory has separate .py files which were used to make visualizations used in the report to illustrate certain findings. 
+
+4. Additional Datasets Added:
 
 Additional Dataset #1 - Snapchat Daily Average Users Data: 
 MIME Type: test/CSV 
