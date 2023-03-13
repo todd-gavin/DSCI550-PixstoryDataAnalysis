@@ -37,9 +37,9 @@ Usage: To compare the number of snapchats DAU's to the daily posts on Pixstory t
 
 In order to create this dataset, we obtained Snachat’s quarterly revenue and daily average users from Statista and its daily stock value from Yahoo Finance. Our data ranges from 2020-2022 as that is the range of data we have available for the Pixstory dataset. For the Snapchat dataset, the features we will be using for analysis are: 
 
-`Feature 1: Daily Average Users`
-`Feature 2: Stock Price`
-`Feature 3: Revenue`
+- `Feature 1: Daily Average Users`
+- `Feature 2: Stock Price`
+- `Feature 3: Revenue`
 
 Source:
 - https://www.statista.com/statistics/552694/snapchat-quarterly-revenue/
