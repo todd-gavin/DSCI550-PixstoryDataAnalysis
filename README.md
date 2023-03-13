@@ -14,7 +14,7 @@ The additional datasets all have detailed notebooks on their use, running each n
 
 4. Additional Datasets Added:
 
-Additional Dataset #1 - Snapchat Daily Average Users Data: 
+`Additional Dataset #1 - Snapchat Daily Average Users Data:`
 MIME Type: test/CSV 
 
 Usage: To compare the number of snapchats DAU's to the daily posts on Pixstory to explore our research question. This dataset includes date, Snapchat's Daily Average Users and Revenue, Snapchat Stock data (Open, High, Low, Close, Adjacent Close and Volume)
