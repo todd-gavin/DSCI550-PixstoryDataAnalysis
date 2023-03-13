@@ -8,11 +8,11 @@ Collaborators: Jai Agrawal, Daniil Abbruzzese, Todd Gavin, Tania Dawood
 
 We have compiled a large dataset containing data provided from Pixstory, as well as additional data sources of various MIME types to perform an analysis on how the COVID pandemic has affected people's usage of social media. 
 
-3. Implementation
+### 3. Implementation
 
 The additional datasets all have detailed notebooks on their use, running each notebook file should give the outputs required. The dataset directories follow Dataset [num]\_[title] formats. Further, the additional columns that needed to be added are also in detailed notebooks within directories. These directories follow [letter]\_[col name] formats. The ‘1_Apache_Tika_Analysis’ directory contains detailed instructions how to run the Tika similarity like we did. The “Report_Questions” directory has separate .py files which were used to make visualizations used in the report to illustrate certain findings. 
 
-4. Default Features Added
+### 4. Default Features Added
 
 Sports Datasets: 
 - https://www.topendsports.com/events/calendar-{year}
@@ -28,9 +28,9 @@ Hate Speech Dataset:
 Sarcasm Dataset: 
 - https://nlds.soe.ucsc.edu/sarcasm1
 
-5. Additional Datasets Added
+### 5. Additional Datasets Added
 
-## Additional Dataset #1 - Snapchat Daily Average Users Data:
+#### Additional Dataset #1 - Snapchat Daily Average Users Data:
 MIME Type: test/CSV 
 
 Usage: To compare the number of snapchats DAU's to the daily posts on Pixstory to explore our research question. This dataset includes date, Snapchat's Daily Average Users and Revenue, Snapchat Stock data (Open, High, Low, Close, Adjacent Close and Volume)
@@ -46,7 +46,7 @@ Source:
 - https://finance.yahoo.com/quote/SNAP/
 - https://www.statista.com/statistics/545967/snapchat-app-dau/
 
-## Additional Dataset #2 - Daily COVID Data: 
+#### Additional Dataset #2 - Daily COVID Data: 
 MIME Type: application/JSON 
 
 Usage: To keep track of the number of daily covid cases, deaths and vaccinations to see how these correlate to the number of Pixstory posts, Snapchat DAU's and number of likes/ views on the daily trending YouTube videos. This dataset includes the date, number of deaths, number of cases and number of vaccinations. 
@@ -61,7 +61,7 @@ Source:
 - https://api.covid19api.com/country/india?from=2020-01-01T00:0
 - https://github.com/owid/covid-19-data
 
-## Additional Dataset #3 - YouTube Daily Trending Videos:
+#### Additional Dataset #3 - YouTube Daily Trending Videos:
 MIME Type: Video/ MP4
 
 Usage: Similar to the Snapchat DAU dataset, we wanted to see if there was any correlation between the number of likes and views to Pixstory posts and COVID cases. This dataset includes data on video ID, title	published at, channel ID, channel title, category ID trending date, tags, view count, likes, dislikes and comment count
