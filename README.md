@@ -2,31 +2,31 @@
 
 Collaborators: Jai Agrawal, Daniil Abbruzzese, Todd Gavin, Tania Dawood
 
-1. Project Title: Effects of the Pandemic on Media Usage and Consumption 
+### 1. Project Title: Effects of the Pandemic on Media Usage and Consumption 
 
-2. Project Description: 
+### 2. Project Description: 
 
-⋅⋅⋅We have compiled a large dataset containing data provided from Pixstory, as well as additional data sources of various MIME types to perform an analysis on how the COVID pandemic has affected people's usage of social media. 
+We have compiled a large dataset containing data provided from Pixstory, as well as additional data sources of various MIME types to perform an analysis on how the COVID pandemic has affected people's usage of social media. 
 
 3. Implementation
 
-⋅⋅⋅The additional datasets all have detailed notebooks on their use, running each notebook file should give the outputs required. The dataset directories follow Dataset [num]\_[title] formats. Further, the additional columns that needed to be added are also in detailed notebooks within directories. These directories follow [letter]\_[col name] formats. The ‘1_Apache_Tika_Analysis’ directory contains detailed instructions how to run the Tika similarity like we did. The “Report_Questions” directory has separate .py files which were used to make visualizations used in the report to illustrate certain findings. 
+The additional datasets all have detailed notebooks on their use, running each notebook file should give the outputs required. The dataset directories follow Dataset [num]\_[title] formats. Further, the additional columns that needed to be added are also in detailed notebooks within directories. These directories follow [letter]\_[col name] formats. The ‘1_Apache_Tika_Analysis’ directory contains detailed instructions how to run the Tika similarity like we did. The “Report_Questions” directory has separate .py files which were used to make visualizations used in the report to illustrate certain findings. 
 
 4. Default Features Added
 
-⋅⋅⋅Sports Datasets: 
-⋅⋅⋅- https://www.topendsports.com/events/calendar-{year}
+Sports Datasets: 
+- https://www.topendsports.com/events/calendar-{year}
 
-⋅⋅⋅Film Festivals: 
-⋅⋅⋅- https://www.film-fest-report.com/home/film-festivals-2022
-⋅⋅⋅- https://www.screendaily.com/news/2021-film-festivals-and-markets-latest-dates-postponements-and-cancellations/5155284.article
-⋅⋅⋅- https://www.filmfestivaldatabase.com
+Film Festivals: 
+- https://www.film-fest-report.com/home/film-festivals-2022
+- https://www.screendaily.com/news/2021-film-festivals-and-markets-latest-dates-postponements-and-cancellations/5155284.article
+- https://www.filmfestivaldatabase.com
 
-⋅⋅⋅Hate Speech Dataset: 
-⋅⋅⋅- https://www.adl.org/resources/hate-symbols/search?keywords=&sort_by=title&page=
+Hate Speech Dataset: 
+- https://www.adl.org/resources/hate-symbols/search?keywords=&sort_by=title&page=
 
-⋅⋅⋅Sarcasm Dataset: 
-⋅⋅⋅- https://nlds.soe.ucsc.edu/sarcasm1
+Sarcasm Dataset: 
+- https://nlds.soe.ucsc.edu/sarcasm1
 
 5. Additional Datasets Added
 
