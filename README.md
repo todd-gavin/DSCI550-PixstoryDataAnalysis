@@ -51,9 +51,9 @@ MIME Type: application/JSON
 
 Usage: To keep track of the number of daily covid cases, deaths and vaccinations to see how these correlate to the number of Pixstory posts, Snapchat DAU's and number of likes/ views on the daily trending YouTube videos. This dataset includes the date, number of deaths, number of cases and number of vaccinations. 
 
-`Feature 1: New daily deaths due to COVID in India`
-`Feature 2: New daily COVID cases in India` 
-`Feature 3: New vaccinations against COVID in India`
+- `Feature 1: New daily deaths due to COVID in India`
+- `Feature 2: New daily COVID cases in India` 
+- `Feature 3: New vaccinations against COVID in India`
 
 Note: this data set only had data available as early as 1/15/2021, which listed India as having 0 vaccinations against COVID. Because the Pixstory data set starts 1/12/2020, we decided to and this missing dates and input 0's for all vaccinations. This was justified because according to this data set India hadn't had any vaccinations until 1/16/2021.  
  
@@ -68,11 +68,11 @@ Usage: Similar to the Snapchat DAU dataset, we wanted to see if there was any co
 
 This is a dataset of the top trending videos on YouTube on any particular day. The MIME Type of this dataset is Video/ MP4. The data ranges from 2020 - 2022 and the features of this include: 
 
-`Feature #1: highest trending video name,` 
-`Feature #2: highest trending video channel,`
-`Feature #3: highest trending video category,` 
-`Feature #4: highest trending video views, ` 
-`Feature #5: highest trending video likes `
+- `Feature #1: highest trending video name,` 
+- `Feature #2: highest trending video channel,`
+- `Feature #3: highest trending video category,` 
+- `Feature #4: highest trending video views, ` 
+- `Feature #5: highest trending video likes `
 
 Source: 
 - https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_youtube_trending_data.csv
