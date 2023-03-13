@@ -32,7 +32,7 @@ MIME Type: application/JSON
 
 We decided to use a COVID API to keep track of the number of daily covid cases, deaths and vaccinations to see how these correlate to the number of Pixstory posts, Snapchat DAU's and number of likes/ views on the daily trending YouTube videos. This dataset includes the date, number of deaths, number of cases and number of vaccinations. 
 
-    Feature 1: New daily deaths due to COVID in INdia 
+ Feature 1: New daily deaths due to COVID in INdia 
 
         This feature was derived from taking data on cumulative deaths in India on a daily basis (source: (https://covid19api.com) and finding the difference from the prior day
 
@@ -43,6 +43,7 @@ We decided to use a COVID API to keep track of the number of daily covid cases, 
     Feature 3: New vaccinations against COVID in India
         
         This feature was derived from taking data on the cumulative vaccinations in India on a daily basis (source: https://github.com/owid/covid-19-data) and finding the difference from the prior day
+
 
         Note: this data set only had data available as early as 1/15/2021, which listed India as having 0 vaccinations against COVID. Because the Pixstory data set starts 1/12/2020, we decided to and this missing dates and input 0's for all vaccinations. This was justified because according to this data set India hadn't had any vaccinations until 1/16/2021.  
  
