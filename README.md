@@ -15,20 +15,18 @@ The additional datasets all have detailed notebooks on their use, running each n
 4. Default Features Added
 
 Sports Datasets: 
-https://www.topendsports.com/events/calendar-{year}
+- https://www.topendsports.com/events/calendar-{year}
 
 Film Festivals: 
-https://www.film-fest-report.com/home/film-festivals-2022
-
-https://www.screendaily.com/news/2021-film-festivals-and-markets-latest-dates-postponements-and-cancellations/5155284.article
-
-https://www.filmfestivaldatabase.com
+- https://www.film-fest-report.com/home/film-festivals-2022
+- https://www.screendaily.com/news/2021-film-festivals-and-markets-latest-dates-postponements-and-cancellations/5155284.article
+- https://www.filmfestivaldatabase.com
 
 Hate Speech Dataset: 
-https://www.adl.org/resources/hate-symbols/search?keywords=&sort_by=title&page=
+- https://www.adl.org/resources/hate-symbols/search?keywords=&sort_by=title&page=
 
 Sarcasm Dataset: 
-https://nlds.soe.ucsc.edu/sarcasm1
+- https://nlds.soe.ucsc.edu/sarcasm1
 
 5. Additional Datasets Added
 
@@ -43,7 +41,10 @@ In order to create this dataset, we obtained Snachat’s quarterly revenue and d
 `Feature 2: Stock Price`
 `Feature 3: Revenue`
 
-Source:  https://www.statista.com/statistics/552694/snapchat-quarterly-revenue/, https://finance.yahoo.com/quote/SNAP/, https://www.statista.com/statistics/545967/snapchat-app-dau/
+Source:
+- https://www.statista.com/statistics/552694/snapchat-quarterly-revenue/
+- https://finance.yahoo.com/quote/SNAP/
+- https://www.statista.com/statistics/545967/snapchat-app-dau/
 
 ## Additional Dataset #2 - Daily COVID Data: 
 MIME Type: application/JSON 
@@ -57,8 +58,8 @@ Usage: To keep track of the number of daily covid cases, deaths and vaccinations
 Note: this data set only had data available as early as 1/15/2021, which listed India as having 0 vaccinations against COVID. Because the Pixstory data set starts 1/12/2020, we decided to and this missing dates and input 0's for all vaccinations. This was justified because according to this data set India hadn't had any vaccinations until 1/16/2021.  
  
 Source:
-https://api.covid19api.com/country/india?from=2020-01-01T00:0
-https://github.com/owid/covid-19-data
+- https://api.covid19api.com/country/india?from=2020-01-01T00:0
+- https://github.com/owid/covid-19-data
 
 ## Additional Dataset #3 - YouTube Daily Trending Videos:
 MIME Type: Video/ MP4
@@ -73,6 +74,7 @@ This is a dataset of the top trending videos on YouTube on any particular day. T
 `Feature #4: highest trending video views, ` 
 `Feature #5: highest trending video likes `
 
-Source: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_youtube_trending_data.csv
+Source: 
+- https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset?select=US_youtube_trending_data.csv
 
 Note: all datasets were combined using the date column. 
