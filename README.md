@@ -2,7 +2,9 @@
 
 Collaborators: Jai Agrawal, Daniil Abbruzzese, Todd Gavin, Tania Dawood
 
-### 1. Project Title: Effects of the Pandemic on Media Usage and Consumption 
+### 1. Project Title: 
+
+Effects of the Pandemic on Media Usage and Consumption 
 
 ### 2. Project Description: 
 
